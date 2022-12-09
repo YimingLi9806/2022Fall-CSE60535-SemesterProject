@@ -1,4 +1,7 @@
 # 2022Fall-CSE60535-SemesterProject
+
+
+
 Part5:
 
 1. report:
@@ -10,5 +13,10 @@ or
 Google drive:   https://drive.google.com/file/d/1sFA1zg49XT4aGPpl8CejUWLROonNbfMm/view?usp=sharing
 
 3. Code: See Repository -> ProjectPart5final.py
-   To make the code work, please first download the ProjectPart5final.py and ImagesQuery from
+   To make the code work, please first download the ProjectPart5final.py and ImagesQuery from GoogleDriveLinkstoAllPhotos.docx. Then make    ProjectPart5final.py and folder "ImagesQuery" in the same directory. Run the code and choose pictures from Testing group to test it.
+   
+   
+Part 4: 
+
+1. report: 
 
